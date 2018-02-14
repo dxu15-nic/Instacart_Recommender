@@ -107,6 +107,7 @@ So clients from different clusters shop with different frequencies and have diff
 Remembering that, roughly, Cluster 0 accounts for 50% of the product purchases, Cluster 1 for 15% and Cluster 2 for the remaining 35%, we can understand the big differences in products bought by the clients of each cluster. For instance, in dairy eggs, we can even find more purchases for Cluster 2 than for Cluster 1, being Cluster 2 much smaller. That is actually consistent with the more frequent purchases of Cluster 1 and 2, since it seems that they are buying more daily products. At the same time, clients from Cluster 0 that, remember, are the ones with a wider gap between purchases, seem to be very interested in products for personal care.
 
 Lastly, we can see that all of this is consistent with the reorder ratio of the different clusters, as it shows that clients from Clusters 1 and 2, which consume more frequent products, have a higher reorder ratio than clients from Cluster 0:
+
 ![Reorder Ratio Cluster](reports/figures/EDA/reorder_ratio_cluster.png)
 
 ## Recommender Systems
